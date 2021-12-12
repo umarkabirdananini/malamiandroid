@@ -1422,32 +1422,3 @@ a {
 .cid-szQvR6NR5i .card-text {
   color: #0196e3;
 }
-.cid-sAS33alYY0 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #f2f3f7;
-}
-.cid-sAS33alYY0 ul {
-  list-style: none;
-  margin: 0;
-  padding-left: 2.5rem;
-}
-.cid-sAS33alYY0 li {
-  position: relative;
-  margin-bottom: 1rem;
-}
-.cid-sAS33alYY0 ul li::before {
-  position: absolute;
-  left: -1.6rem;
-  content: "\2022";
-  color: #36187d;
-  font-weight: bold;
-  font-size: 2rem;
-  width: 1.6rem;
-}
-.cid-sAS33alYY0 H3 {
-  color: #000000;
-}
-.cid-sAS33alYY0 .list {
-  color: #000000;
-}
